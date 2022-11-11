@@ -3,9 +3,9 @@
 ## Tasks for the next 2 week sprint:
 <br/>
 
-- [ x] Find a related repository or tutorial online and evaluate it. 
+- [x] Find a related repository or tutorial online and evaluate it. 
 
-- [x ] Test tutorial and determine whether it will be used.
+- [x] Test tutorial and determine whether it will be used.
 
 - [ ] Create 3 html pages for the adoption website; a home page, an adoption page, and a feedback page.
 
