@@ -22,4 +22,4 @@
 
 <input type="checkbox"> Insert validation badges into html pages at the bottom.
 
-<input type="checkbox"> Do a final test for the web application.
+- [] Do a final test for the web application.
