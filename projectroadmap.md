@@ -7,7 +7,11 @@
 
 - [x] Test tutorial and determine whether it will be used.
 
-- [ ] Create 3 html pages for the adoption website; a home page, an adoption page, and a feedback page.
+- [x] Create html home page
+ 
+- [ ] Create an html adoption page
+
+- [ ] Create an html service page
 
 - [ ] Create the CSS for the html pages. Only plan on using one page of CSS applied to all html pages.
 
