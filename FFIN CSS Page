@@ -14,7 +14,7 @@ header, nav, main, footer, aside {
 }
 body {
 	background-color:#B2C98E;
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	font-family: "Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif"
 }
 header {
 		color:#CC66CC;
@@ -55,7 +55,7 @@ main {
 	margin: 0 210px 0 160px;
 	padding: 1px 10px 20px 10px;
 	background-color:#FFFFFF;
-	color:#006600;
+	color:#6279ec;
 }
 main p {
 	margin:20px;
