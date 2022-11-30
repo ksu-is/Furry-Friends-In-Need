@@ -9,19 +9,19 @@
 
 - [x] Create html home page
  
-- [ ] Create an html adoption page
+- [x] Create an html adoption page
 
-- [ ] Create an html service page
+- [x] Create an html service page
 
-- [ ] Create the CSS for the html pages. Only plan on using one page of CSS applied to all html pages.
+- [x] Create the CSS for the html pages. Only plan on using one page of CSS applied to all html pages.
 
-- [ ] Find and insert images into the html pages
+- [x] Find and insert images into the html pages
 
-- [ ] Link adoption and feedback pages to the home page using a navigation.
+- [x] Link adoption and service pages to the home page using a navigation.
 
-- [ ] Test website in flask and comment on any issues.
+- [x] Test website in flask and comment on any issues.
 
-- [ ] Add comments throughout code for explanation.
+- [x] Add comments throughout code for explanation.
 
 - [ ] Validate CSS and html pages using W3C.
 
