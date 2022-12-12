@@ -23,8 +23,4 @@
 
 - [x] Add comments throughout code for explanation.
 
-- [ ] Validate CSS and html pages using W3C.
-
-- [ ] Insert validation badges into html pages at the bottom.
-
 - [ ] Do a final test for the web application.
